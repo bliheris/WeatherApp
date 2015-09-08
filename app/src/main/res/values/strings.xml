@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="location_error">"Provided location cannot be found.</string>
+    <string name="no_internet_connection">"You are not connected to network.</string>
+    <string name="not_online_message">"You are not connected to network data may not be up to date.</string>
+    <string name="no_data_error">"There is no connection to network and no data is saved. Please connect to network to load data."</string>
+
+
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">lodz,pl</string>
+
+    <string name="pref_units_label">Units</string>
+    <string name="pref_units_label_metric">Metric</string>
+    <string name="pref_units_label_imperial">Imperial</string>
+    <string name="pref_units_key" translatable="false">units</string>
+    <string name="pref_units_metric" translatable="false">metric</string>
+    <string name="pref_units_imperial" translatable="false">imperial</string>
+
+    <string name="cityLabel">City</string>
+    <string name="coordLabel">Coordinates</string>
+    <string name="dateLabel">Date</string>
+    <string name="dayTemperatureLabel">Day</string>
+    <string name="nightTemperatureLabel">Night</string>
+    <string name="pressureLabel">Pressure</string>
+    <string name="descriptionLabel">Description</string>
+
+    <string name="humidityLabel">Humidity</string>
+    <string name="windSpeedLabel">Wind speed</string>
+    <string name="windDirectionLabel">Wind dir.</string>
+    <string name="cloudiness">Cloudiness</string>
+
+</resources>
